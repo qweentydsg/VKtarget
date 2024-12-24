@@ -1,6 +1,6 @@
 ##How to use
 
-user: admin Moscow10
+user: https://vk.com/Daryqx
 
 ##Requirements
 
